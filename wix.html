@@ -15,8 +15,16 @@
 
 <body>
     <div id="target"></div>
+
     <script>
-        $('#target').load('https://michaelcurrin.wixsite.com/secondlinersimprov');
+        $.ajax({
+            crossOrigin: true,
+            url: 'https://michaelcurrin.wixsite.com/secondlinersimprov',
+            success: function (data) {
+                console.log(data);
+                $('#target').load(data);
+            }
+        });
 
     </script>
 </body>
