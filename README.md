@@ -1,6 +1,16 @@
 # FB Plugin Test
 > Showcase of using FB's plugin to pull in FB page details onto a Netlify website
 
+## Installation
+
+Install _Jekyll_ globally.
+
+## Run
+
+```bash
+$ jekyll serve
+```
+
 ## Notes
 
 This shows a live example of using a FB page plugin to pull in details such as profile image, timeline and events. The plugin snippet is created using a tool of Facebook's Developer site.
