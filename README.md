@@ -10,6 +10,7 @@ Install Jekyll globally - follow [instructions](https://gist.github.com/MichaelC
 
 Clone the project.
 
+Install project dependencies - follow [instructions](https://gist.github.com/MichaelCurrin/5c8c45a86bcf53d7b49a7763c02943b1).
 
 
 ## Run
@@ -17,7 +18,7 @@ Clone the project.
 Start the dev server.
 
 ```bash
-$ jekyll serve
+$ bundle exec jekyll serve
 ```
 
 
@@ -27,13 +28,12 @@ $ jekyll serve
 - Instagram: [ig](/ig/) directory
 
 
-
 ## Notes
 
 This shows a live example of using a FB page plugin to pull in details such as profile image, timeline and events. The plugin snippet is created using a tool of Facebook's Developer site.
 
 - https://developers.facebook.com/docs/plugins/page-plugin/
 
-The plugin page allows easy customization and a preview, then gives you snippets to paste on your site. See code at [index.html](/index.html) and [iframe.html](/iframe.html).
+The plugin page allows easy customization and a preview, then gives you snippets to paste on your site. See the Facebook links.
 
 This is also a test of Netlify CORS configs. See [netlify.toml](/netlify.toml).
