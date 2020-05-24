@@ -10,12 +10,6 @@ Install Jekyll globally - follow [instructions](https://gist.github.com/MichaelC
 
 Clone the project.
 
-Install dependencies:
-
-```sh
-$ bundle config --local path vendor/bundle
-$ bundle install
-```
 
 
 ## Run
