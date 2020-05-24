@@ -9,4 +9,4 @@ layout: default
 - [Facebook](/fb)
 - [Instagram](/ig)
 
-[Github repo](https://github.com/MichaelCurrin/embed-social-widgets/")
+[Github repo](https://github.com/MichaelCurrin/embed-social-widgets/)
