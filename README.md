@@ -1,17 +1,37 @@
 # Embed social widgets
 > Showcase of embedding the Facebook plugin and an Instagram post
 
+Hosted with Netlify.
+
 
 ## Installation
 
-Install _Jekyll_ globally.
+Install Jekyll globally - follow [instructions](https://gist.github.com/MichaelCurrin/ddbcfb1714c4dbfb3460a3ecf119620f)
+
+Clone the project.
+
+Install dependencies:
+
+```sh
+$ bundle config --local path vendor/bundle
+$ bundle install
+```
 
 
 ## Run
 
+Start the dev server.
+
 ```bash
 $ jekyll serve
 ```
+
+
+## Project structure
+
+- Facebook: [fb](/fb/) directory
+- Instagram: [ig](/ig/) directory
+
 
 
 ## Notes
