@@ -1,7 +1,7 @@
 # Embed social widgets
 > Showcase of embedding the Facebook plugin and an Instagram post
 
-Hosted with Netlify.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c39e33ed-1d6b-4cbb-80cb-ee7d280026e5/deploy-status)](https://app.netlify.com/sites/embed-social-widgets/deploys)
 
 
 ## Installation
