@@ -1,4 +1,4 @@
-# Embed social widget
+# Embed social widgets
 > Showcase of embedding the Facebook plugin and an Instagram post
 
 
