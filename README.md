@@ -18,14 +18,14 @@ Install project dependencies - follow [instructions](https://gist.github.com/Mic
 Start the dev server.
 
 ```bash
-$ bundle exec jekyll serve
+$ bundle exec jekyll serve --trace --livereload
 ```
 
 
 ## Project structure
 
-- Facebook: [fb](/fb/) directory
-- Instagram: [ig](/ig/) directory
+- Facebook: [fb](/fb/) directory.
+- Instagram: [ig](/ig/) directory.
 
 
 ## Notes
