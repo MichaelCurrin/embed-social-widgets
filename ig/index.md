@@ -3,7 +3,6 @@ title: Instagram
 layout: default
 ---
 
-
 How to embed posts using Instagram and not external plugins or tools.
 
 Note that does not support embedding a feed - only a single post.
@@ -26,7 +25,7 @@ It's very long so not shown here as code.
 
 Copy the URL for an IG post and append `/embed`.
 
-e.g. [https://www.instagram.com/p/B1YVS80D9W_/embed](https://www.instagram.com/p/B1YVS80D9W_/embed)
+- [https://www.instagram.com/p/B1YVS80D9W_/embed](https://www.instagram.com/p/B1YVS80D9W_/embed)
 
 
 Then add it as the `"src"` for an iframe.
