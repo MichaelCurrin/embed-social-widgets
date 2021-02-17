@@ -5,7 +5,9 @@ layout: default
 
 ## Div approach
 
-This is a required section:
+### Setup
+
+Add the container and JS. This is a required section for the snippets which come next.
 
 ```html
 <!-- Container for iframe which will be inserted by JS. -->
@@ -46,7 +48,7 @@ This is a required section:
 
 ## Iframe approach
 
-Note that is a standalone a approach which does _not_ need the `fb-root` element and script tag in the first approach.
+Note that this is a standalone approach which does _not_ need the `fb-root` element and script tag in the first approach.
 
 ```html
 <iframe
