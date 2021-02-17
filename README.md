@@ -8,7 +8,17 @@
 
 ## Demo
 
+<div align="center">
+
 [![View site - Embed Social Widgets](https://img.shields.io/badge/View_site-Embed_Social_Widgets-2ea44f?style=for-the-badge&logo=netlify)](https://embed-social-widgets.netlify.app/)
+
+</div>
+
+
+## Requirements
+
+- Ruby
+- Make - optional task runner for macOS and Linux.
 
 
 ## Installation
@@ -16,6 +26,11 @@
 Install Jekyll globally - follow [instructions](https://gist.github.com/MichaelCurrin/ddbcfb1714c4dbfb3460a3ecf119620f)
 
 Clone the project.
+
+```sh
+$ git clone git@github.com:MichaelCurrin/embed-social-widgets.git
+$ cd embed-social-widgets
+```
 
 Install project dependencies - follow [instructions](https://gist.github.com/MichaelCurrin/5c8c45a86bcf53d7b49a7763c02943b1).
 
@@ -25,7 +40,7 @@ Install project dependencies - follow [instructions](https://gist.github.com/Mic
 Start the dev server.
 
 ```bash
-$ bundle exec jekyll serve --trace --livereload
+$ make serve
 ```
 
 
